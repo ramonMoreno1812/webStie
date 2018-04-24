@@ -1,0 +1,90 @@
+/*Global css*/
+* {
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 3px;
+    line-height: 2;
+}
+
+footer {
+    background-color: black;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    color: white;
+    margin-top: 70px;
+}
+
+
+/*************** rmoreno_home.html */
+
+.jumbotron {
+    padding-top: 180px;
+    padding-bottom: 315px;
+    background:url(images/milwaukeeDownTown.png);
+    /*url(images/milwaukeeFive.jpg);*/
+    /*url(images/miwaukeeFour.jpg);*/
+    /*url(images/milwuakeeThree.jpg);*/
+    /*url(images/milwaukeeTwo.jpg);*/
+    /*url(images/milwKee.jpg);*/
+    background-size: cover;
+    font: bold;
+    color: #ffffff;
+}
+
+footer {
+    background-color: black;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    color: white;
+    margin-top: 70px;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+}
+/* ABOUT ME *************************************/
+.firstP {
+    letter-spacing: 1px;
+}
+
+.aboutMeText h1 {
+    text-align: center;
+}
+
+.myPIc {
+    display: block;
+    margin: 0 auto;
+}
+
+.firstP {
+    background-color: #fbffff;
+    word-wrap: break-word;
+    margin-left: auto;
+    margin-right: auto;
+    width: 41em;
+}
+/*********************8 PORTFOLIO*/
+
+/****** PROJECTS*/
+/*#projects {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 60em;
+    background: #fbffff;
+    letter-spacing: 1px;
+}*/
+
+
+
+#presntatoinPic {
+    -ms-transform: rotate(90deg);
+    /* IE 9 */
+    -webkit-transform: rotate(90deg);
+    /* Chrome, Safari, Opera */
+    transform: rotate(90deg);
+}
+
+
+
+
